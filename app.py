@@ -1,4 +1,5 @@
-pip freeze > requirements.txtpip freeze > requirements.txt# In[1]:
+#pip freeze > requirements.txtpip freeze > requirements.txt
+# In[1]:
 
 
 import dash
